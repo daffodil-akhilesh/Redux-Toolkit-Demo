@@ -1,0 +1,21 @@
+{
+  "name": "reacttoolkitdemo",
+  "version": "1.0.0",
+  "description": "React Toolkit Demo Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "react-redux",
+    "redux-toolkit",
+    "statemanagement"
+  ],
+  "author": "Akhilesh Pandey (akhilesh.pandey@unthinkable.co)",
+  "license": "MIT",
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.9.3",
+    "axios": "^1.3.4"
+  }
+}
